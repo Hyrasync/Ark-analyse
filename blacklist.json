@@ -1,6 +1,11 @@
 {
-  "113fa5679c54492efe2cf876f98d8d73a06809ede55a5381e2801e4385794f63": {"type": "sha256", "text": "Meso Detected"},
-  "4d9e086e6dd32e079ee1e5a1595e576de1f428127a2edfe2c88c533f5c385a29": {"type": "sha256", "text": "NGS Detected"},
-  "": {"type": "sha256", "text": "NGS Detected"},
-  "": {"type": "sha256", "text": "NGS Detected"},
+  "113fa5679c54492efe2cf876f98d8d73a06809ede55a5381e2801e4385794f63": {
+    "type": "sha256",
+    "text": "Meso Detected"
+  },
+  "4d9e086e6dd32e079ee1e5a1595e576de1f428127a2edfe2c88c533f5c385a29": {
+    "type": "sha256",
+    "text": "NGS Detected"
+  }
 }
+
