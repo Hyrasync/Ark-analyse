@@ -104,3 +104,6 @@ encrypt
 decrypt
 c2
 commandcontrol
+loader
+client_main
+ProtonNotDrive
